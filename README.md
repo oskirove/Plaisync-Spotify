@@ -2,8 +2,6 @@
   <img src="./public/logos/logo.png" alt="Logo" width="200">
 </p>
 
-<h1 align="center">Tu música personalizada cada més</h1>
-
 <div align="center">
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -12,6 +10,8 @@
 ![Clerk](https://img.shields.io/badge/Clerk-indigo?style=for-the-badge&logo=clerk&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-black?style=for-the-badge&logo=Spotify&logoColor=green)
 </div>
+
+<h1 align="center">Tu música personalizada cada més</h1>
 
 <div align="center">
     <img src="./public/images/Captura de pantalla 2024-11-10 a las 22.33.47.png">
